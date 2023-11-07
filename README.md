@@ -15,6 +15,6 @@ Data Science Intern Portfolio
 - built a model that predicts personality scores of YouTubers based on transcripts of their videos using lexicons for sentiment analysis.
 
 # [Competition 4: Facial Expression Recognition](https://github.com/LisaWittmann/Competition-4) 
-- built an algorithm that is able to recognise emotions from photographs from facial expressions using statistical features and image convolution.
+- built an algorithm that is able to recognise emotions from photographs from facial expressions using statistical features and also Frey Slate Features.
 
 
