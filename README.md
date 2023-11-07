@@ -5,7 +5,7 @@ Data Science Intern Portfolio
 - Analysed user data to find patterns of user activity to give our client (Eelloo) insight into which users come back to the recruitment platform
 - Created data visualisations to illustrate variations in user activity across different customers, age groups and goals
 
-# [Competition 1: Physical activity recognition] (https://github.com/LisaWittmann/Project-2)  
+# [Competition 1: Physical activity recognition](https://github.com/LisaWittmann/Project-2)  
 - built a classifier that recognises different types of physical activity from signals measured by the accelerometer and gyroscope in smartphones using time and frequency domain features.
 
 # Competition 2: Amazon Customer Reviews 
