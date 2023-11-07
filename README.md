@@ -33,4 +33,5 @@ Research question: Can talkers voluntarily modulate their voice to express speci
 - Voluntary voice modulation can improve speakers’ chances of achieving social goals, in which a specific trait is desirable
 
 Poster at the VoiceID Conference 2022 of UZH
-![](https://github.com/LisaWittmann/Portfolio/blob/main/images/poster_DinA4.pdf)
+![Poster](https://github.com/LisaWittmann/Portfolio/blob/main/images/poster_DinA4.pdf)
+
