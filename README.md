@@ -8,4 +8,13 @@ Data Science Intern Portfolio
 # [Competition 1: Physical activity recognition] (https://www.kaggle.com/code/lisaameliewittmann/group-12-physical-activity-recognition-round-2/edit/run/144559971)  
 - built a classifier that recognises different types of physical activity from signals measured by the accelerometer and gyroscope in smartphones using time and frequency domain features.
 
+# Competition 2: Amazon Customer Reviews 
+- built a classifier that automatically recognises customer satisfaction from textual reviews of Amazon products using Bag-of-Words features and sentiment analysis.
+
+# Competition 3: Personality Profiling of YouTube vloggers 
+- built a model that predicts personality scores of YouTubers based on transcripts of their videos using lexicons for sentiment analysis.
+
+# Competition 4: Facial Expression Recognition 
+- built an algorithm that is able to recognise emotions from photographs from facial expressions using statistical features and image convolution.
+
 
