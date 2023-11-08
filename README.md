@@ -22,7 +22,7 @@ Research question: Can talkers voluntarily modulate their voice to express speci
 - Speakers can voluntarily modulate their voice to convey an intended social trait, which naïve listeners can distinguish from other intended expressed traits
 - Voluntary voice modulation can improve speakers’ chances of achieving social goals, in which a specific trait is desirable
 
-[*Poster at the VoiceID Conference 2022 of UZH*](https://github.com/LisaWittmann/Portfolio/blob/main/images)
+[*Poster at the VoiceID Conference 2022 of UZH*](https://github.com/LisaWittmann/Portfolio/blob/main/images/poster_DinA4.pdf)
 
 # Bachelor Thesis 
 
