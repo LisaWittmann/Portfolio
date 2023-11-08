@@ -14,8 +14,9 @@
 # [Competition 4: Facial Expression Recognition](https://github.com/LisaWittmann/Competition-4) 
 - built an algorithm that is able to recognise emotions from photographs from facial expressions using statistical features and also Frey Slate Features.
 
-# Bachelor Thesis, @ Chair of Cognitive Neuroscience (supervised by Prof. Dr. Angelika Lingnau): 
-## The organization of observed actions using primitives acts of conceptual dependency theory
+# Bachelor Thesis, 
+**@ Chair of Cognitive Neuroscience (supervised by Prof. Dr. Angelika Lingnau):** 
+**The organization of observed actions using primitives acts of conceptual dependency theory**
 Every kind of action we do daily, like lifting a glass to drink, we can easily understand when we see it. However, the question of how the human brain represents and organises the knowledge of these observed actions is still unclear. The primary research objective of my study was to explore whether the representation of observed actions aligns with Schank's Conceptual Dependency Theory primitive acts. This theory represents the meaning of sentences through a set of primitive acts, not as category names for verbs. For instance, ATRANS, defined as "Transfer of an abstract relationship (i.e., give)," is one such primitive act. Seven categories of primitive acts were selected, and participants were asked to arrange 35 pictures depicting actions based on their perceived similarity. The resulting data were the averaged Euclidean distances across all subjects and formed the basis of the hierarchical cluster analysis, resulting in a dendrogram and dissimilarity matrix that indicate the perceived similarities between pairs of actions. This study seeks to shed light on which actions are perceived as similar and whether the overarching organizational dimensions can be attributed to the Conceptual Dependency Theory, contributing to our understanding of how humans categorize and process observed actions.
 
 ![Dissimilarity Matrix](/images/dissimilarity%20matrix.png)
@@ -23,7 +24,8 @@ Every kind of action we do daily, like lifting a glass to drink, we can easily u
 ![Clusteranalysis](https://github.com/LisaWittmann/Portfolio/blob/main/images/Clusteranalyse.png)
 
 
-# Research Internship, @ UCL Vocal Communication Laboratory (supervised by Carolyn McGettigan):
+# Research Internship, 
+**@ UCL Vocal Communication Laboratory (supervised by Carolyn McGettigan):**
 Research question: Can talkers voluntarily modulate their voice to express specific social traits (e.g. confidence)?
 - Voluntary voice modulations amplify social trait impressions in naïve listeners
 - Speakers can voluntarily modulate their voice to convey an intended social trait, which naïve listeners can distinguish from other intended expressed traits
