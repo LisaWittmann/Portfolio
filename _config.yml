@@ -1,4 +1,4 @@
-remote_theme: pages-themes/minima
+remote_theme: pages-themes/minimal@v0.2.0
 title: Portfolio
 subtitle: Lisa Wittmann
 description: Data Science Intern
