@@ -1,6 +1,3 @@
-# Portfolio
-Data Science Intern Portfolio
-
 # Project 1: Profile of User Activity: Consulting Case
 - Analysed user data to find patterns of user activity to give our client (Eelloo) insight into which users come back to the recruitment platform
 - Created data visualisations to illustrate variations in user activity across different customers, age groups and goals
@@ -17,7 +14,7 @@ Data Science Intern Portfolio
 # [Competition 4: Facial Expression Recognition](https://github.com/LisaWittmann/Competition-4) 
 - built an algorithm that is able to recognise emotions from photographs from facial expressions using statistical features and also Frey Slate Features.
 
-# Bachelor Thesis, 
+# Bachelor Thesis 
 
 **@ Chair of Cognitive Neuroscience (supervised by Prof. Dr. Angelika Lingnau):** 
 
@@ -30,7 +27,7 @@ Every kind of action we do daily, like lifting a glass to drink, we can easily u
 ![Clusteranalysis](https://github.com/LisaWittmann/Portfolio/blob/main/images/Clusteranalyse.png)
 
 
-# Research Internship, 
+# Research Internship 
 **@ UCL Vocal Communication Laboratory (supervised by Carolyn McGettigan):**
 
 Research question: Can talkers voluntarily modulate their voice to express specific social traits (e.g. confidence)?
